@@ -1,6 +1,3 @@
-# nba-win-probability
-Extending Stern (1994)'s NBA win probability model using pregame betting spreads and play-by-play data.
-[readme.md](https://github.com/user-attachments/files/26574275/readme.md)
 # NBA Win Probability Model: Extending Stern (1994)
 
 Stern (1994) presents a formula that can be used to calculate win probability using time and lead as inputs. This project expands on Stern (1994) by incorporating pregame betting spreads, testing model assumptions, and developing meaningful coaching insight.
